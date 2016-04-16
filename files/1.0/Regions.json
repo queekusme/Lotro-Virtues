@@ -1,0 +1,41 @@
+[
+	"All", // 0
+	"Breeland", // 1
+	"The Shire", // 2
+	"Ered Luin", // 3
+	"Lone-lands", // 4
+	"North Downs", // 5
+	"Trollshaws", // 6
+	"Evendim", // 7
+	"Angmar (General)", // 8
+	"Angmar (Barad Guluran)", // 9
+	"Angmar (Carn Dum)", // 10
+	"Angmar (Urugarth)", // 11
+	"Forochel", // 12
+	"Lothlorien", // 13
+	"Misty Mountains", // 14
+	"Eregion", // 15
+	"Moria (General)", // 16
+	"Moria (16th Hall)", // 17
+	"Moria (Dark Delvings)", // 18
+	"Moria (Fil Gashan)", // 19
+	"Moria (Forges)", // 20
+	"Moria (Forgotten Treasury)", // 21
+	"Moria (Grand Stair)", // 22
+	"Moria (Skumfil)", // 23
+	"Moria (Vile Maw)", // 24
+	"Mirkwood", // 25
+	"Enedwaith", // 26
+	"Dunland (Main)",  // 27
+	"Dunland (Gap of Rohan)", // 28
+	"Dunland (Nan Curunir)", // 29
+	"The Great River", // 30
+	"Eastern Rohan", // 31
+	"Wildermore", // 32
+	"Western Rohan", // 33
+	"Western Gondor", // 34
+	"Central Gondor", // 35
+	"Eastern Gondor", // 36
+	"Old Anorien", // 37
+	"Far Anorien" // 38
+]
