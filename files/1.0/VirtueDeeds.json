@@ -51,6 +51,7 @@
 	{ "Virtue":"Compassion", "Increase":"+1", "Level":85, "Type":"Slayer", "Region":33, "Name":"Uruk Slayer (Advanced)", "Retired":false},
 	{ "Virtue":"Compassion", "Increase":"+1", "Level":95, "Type":"Slayer", "Region":34, "Name":"Oath-breaker Slayer of West Gondor (Advanced)", "Retired":false},
 	{ "Virtue":"Compassion", "Increase":"+1", "Level":100, "Type":"Slayer", "Region":35, "Name":"Beast Slayer (Advanced)", "Retired":false},
+    { "Virtue":"Compassion", "Increase":"+1", "Level":100, "Type":"Reputation", "Region":38, "Name":"Quests of the Beacon Hills", "Retired":false},
 	
 	{ "Virtue":"Confidence", "Increase":"+1", "Level":6, "Type":"Exploration", "Region":3, "Name":"Rath Teraig Exploration", "Retired":false},
 	{ "Virtue":"Confidence", "Increase":"+1", "Level":20, "Type":"Exploration", "Region":4, "Name":"The Grimfens", "Retired":false},
@@ -201,6 +202,7 @@
 	{ "Virtue":"Fortitude", "Increase":"+1", "Level":100, "Type":"Slayer", "Region":36, "Name":"Half-troll slayer of Eastern Gondor (Advanced)", "Retired":false},
 	{ "Virtue":"Fortitude", "Increase":"+1", "Level":100, "Type":"Exploration", "Region":14, "Name":"Treasures of the Misty Mountains", "Retired":false},
 	{ "Virtue":"Fortitude", "Increase":"+1", "Level":100, "Type":"Slayer", "Region":37, "Name":"Orc-slayer of (Advanced)", "Retired":false},
+    { "Virtue":"Fortitude", "Increase":"+1", "Level":100, "Type":"Slayer", "Region":38, "Name":"Far Anorien's Roving Enemies", "Retired":false},
 	
 	{ "Virtue":"Honesty", "Increase":"+1", "Level":11, "Type":"Slayer", "Region":4, "Name":"Craban Slayer (Advanced)", "Retired":false},
 	{ "Virtue":"Honesty", "Increase":"+1", "Level":23, "Type":"Slayer", "Region":4, "Name":"Troll Slayer (Advanced)", "Retired":false},
@@ -226,6 +228,7 @@
 	{ "Virtue":"Honesty", "Increase":"+1", "Level":95, "Type":"Reputation", "Region":34, "Name":"Quests of Blackroot Vale", "Retired":false},
 	{ "Virtue":"Honesty", "Increase":"+1", "Level":100, "Type":"Reputation", "Region":35, "Name":"Quests of Dor En Ernil", "Retired":false},
 	{ "Virtue":"Honesty", "Increase":"+1", "Level":100, "Type":"Exploration", "Region":36, "Name":"The Southern Beacons", "Retired":false},
+    { "Virtue":"Honesty", "Increase":"+1", "Level":100, "Type":"Exploration", "Region":38, "Name":"The Waning Beacons", "Retired":false},
 	
 	{ "Virtue":"Honour", "Increase":"+1", "Level":1, "Type":"Slayer", "Region":1, "Name":"Spider Slayer (Advanced)", "Retired":false},
 	{ "Virtue":"Honour", "Increase":"+1", "Level":1, "Type":"Slayer", "Region":2, "Name":"Spider Slayer (Advanced)", "Retired":false},
@@ -399,6 +402,7 @@
 	{ "Virtue":"Patience", "Increase":"+1", "Level":95, "Type":"Reputation", "Region":34, "Name":"Warbands: West Gondors Roaming Enemies", "Retired":false},
 	{ "Virtue":"Patience", "Increase":"+1", "Level":100, "Type":"Exploration", "Region":36, "Name":"Treasure of Eastern Gondor", "Retired":false},
 	{ "Virtue":"Patience", "Increase":"+1", "Level":100, "Type":"Exploration", "Region":12, "Name":"Treasures of Forochel", "Retired":false},
+    { "Virtue":"Patience", "Increase":"+1", "Level":100, "Type":"Exploration", "Region":38, "Name":"Treasure of Far Anorien", "Retired":false},
 	
 	{ "Virtue":"Tolerance", "Increase":"+1", "Level":1, "Type":"Exploration", "Region":2, "Name":"The Farms of the Shire", "Retired":false},
 	{ "Virtue":"Tolerance", "Increase":"+2", "Level":25, "Type":"Exploration", "Region":8, "Name":"Bastions of Hope", "Retired":false},
@@ -469,6 +473,7 @@
 	{ "Virtue":"Wisdom", "Increase":"+1", "Level":85, "Type":"Exploration", "Region":33, "Name":"Exploring the Kingstead", "Retired":false},
 	{ "Virtue":"Wisdom", "Increase":"+1", "Level":100, "Type":"Exploration", "Region":36, "Name":"The Five Sisters", "Retired":false},
 	{ "Virtue":"Wisdom", "Increase":"+1", "Level":100, "Type":"Exploration", "Region":37, "Name":"Masters of Minas Tirith", "Retired":false},
+    { "Virtue":"Wisdom", "Increase":"+1", "Level":100, "Type":"Reputation", "Region":38, "Name":"Quests of Taur Druadan", "Retired":false},
 	
 	{ "Virtue":"Zeal", "Increase":"+1", "Level":1, "Type":"Slayer", "Region":3, "Name":"Goblin Slayer (Advanced)", "Retired":false},
 	{ "Virtue":"Zeal", "Increase":"+1", "Level":5, "Type":"Slayer", "Region":3, "Name":"Spider Slayer (Advanced)", "Retired":false},
@@ -495,5 +500,6 @@
 	{ "Virtue":"Zeal", "Increase":"+1", "Level":95, "Type":"Reputation", "Region":34, "Name":"Quests of Belfalas", "Retired":false},
 	{ "Virtue":"Zeal", "Increase":"+1", "Level":100, "Type":"Reputation", "Region":35, "Name":"Quests of Lebennin", "Retired":false},
 	{ "Virtue":"Zeal", "Increase":"+1", "Level":100, "Type":"Reputation", "Region":0, "Name":"Roving Threat Slayer (Final)", "Retired":false},
-	{ "Virtue":"Zeal", "Increase":"+1", "Level":100, "Type":"Reputation", "Region":36, "Name":"Quests of Osgiliath", "Retired":false}
+	{ "Virtue":"Zeal", "Increase":"+1", "Level":100, "Type":"Reputation", "Region":36, "Name":"Quests of Osgiliath", "Retired":false},
+    { "Virtue":"Zeal", "Increase":"+1", "Level":100, "Type":"Exploration", "Region":38, "Name":"The Lost Trail of the Entwash", "Retired":false}
 ]
